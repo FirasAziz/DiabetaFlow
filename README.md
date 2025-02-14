@@ -20,7 +20,6 @@ This project was developed as part of the **Data Engineering and Analytics cours
 4. **Data Loading**: Stores processed data in a MySQL database.
 5. **Machine Learning Model**: Predicts diabetes risk using a trained classifier.
 6. **Pipeline Orchestration**: Manages execution using an Apache Airflow DAG.
-![Project Screenshot](images/Screenshot_2025-02-14_182001.png)
 
 ## Technologies Used
 - **Python** (Requests, Pandas, Scikit-learn, MySQL Connector, Airflow)
