@@ -75,5 +75,5 @@ Ensure the following dependencies are installed:
 
 
 ## Contact
-For inquiries, reach out via [your-email@example.com] or connect on [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/firas-aziz-50012a298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)).
+For inquiries, reach out via [firasaziz20@gmail.com](mailto:firasaziz20@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/firas-aziz-50012a298).
 
